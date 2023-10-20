@@ -1,0 +1,10 @@
+footer {
+    width: 100%;
+    height: 25px;
+    background: linear-gradient(to bottom right, #EF4765, #ff9350);
+    color: #FFFFFF;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
